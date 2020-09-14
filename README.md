@@ -24,6 +24,25 @@ git config --global user.password githubpassword
 
 team menbers
 
+rasika 
+lalitha
+meera
+vishnu
+kavi
+
 software requirements
 
+hfhd
+jhvfdsgf
+hvfjhd
+hvbfd
+
+
+
 objects
+
+kjhbdfjbvh
+jhgvkhd
+jviklhfckjb
+
+
